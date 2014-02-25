@@ -14,11 +14,11 @@ fis用户使用手册
         1. 文件监听与浏览器自动刷新
         1. 缓存清除与单机多人编译
         1. 输出冗余信息
-    1. fis server <command> [options]
+    1. fis server &lt;command&gt; [options]
         1. 启动nodejs服务器
         1. 启动jetty服务器
         1. 启动php服务器
-    1. fis install <name> [options]
+    1. fis install &lt;name@version&gt; [options]
 1. 配置说明
     1. 系统配置
     1. 目录规范与域名配置
