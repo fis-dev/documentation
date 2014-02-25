@@ -3,8 +3,13 @@ fis用户使用手册
 
 ![](docs/images/logo_120x120.png?raw=true)
 
-1. 概述
+1. 入门
+    1. 什么是fis
+    1. 环境与安装
+    1. 从一个简单的项目开始
+    1. 相关资源
 1. 工作原理
+    1. 工作流程介绍
 1. 命令行
     1. fis release [options]
         1. 指定发布目标
@@ -45,10 +50,11 @@ fis用户使用手册
         1. packager - 打包插件
         1. spriter - csssprites插件
         1. postpackager - 打包处理插件
+    1. 内核常用API
 1. 二次包装
     1. 包装原理
-    1. 编写index.js
-    1. 甄选插件
+    1. 将固定配置写入包装文件
+    1. 甄选内置插件
     1. 发布npm
 1. 实战运用
     1. 开发部署规范设计
